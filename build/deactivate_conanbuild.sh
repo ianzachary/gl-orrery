@@ -1,0 +1,1 @@
+. "/Users/ianalgenio/Documents/Projects/gl-orrery/build/deactivate_conanbuildenv-release-x86_64.sh"

@@ -1,0 +1,38 @@
+[
+{
+  "directory": "/Users/ianalgenio/Documents/Projects/gl-orrery/build",
+  "command": "/Library/Developer/CommandLineTools/usr/bin/c++ -DGL_SILENCE_DEPRECATION=1 -DSTB_TEXTEDIT_KEYTYPE=unsigned -I/Users/ianalgenio/Documents/Projects/gl-orrery/include -isystem /Users/ianalgenio/.conan2/p/b/gladbc7d9b1c9c738/p/include -isystem /Users/ianalgenio/.conan2/p/b/glfwb646194cac045/p/include -isystem /Users/ianalgenio/.conan2/p/glmee168c829b0e6/p/include -isystem /Users/ianalgenio/.conan2/p/stb19b77fb56ffd7/p/include -m64 -stdlib=libc++ -O3 -DNDEBUG -std=gnu++17 -arch x86_64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX.sdk -o CMakeFiles/Orrery.dir/src/Engine.cpp.o -c /Users/ianalgenio/Documents/Projects/gl-orrery/src/Engine.cpp",
+  "file": "/Users/ianalgenio/Documents/Projects/gl-orrery/src/Engine.cpp",
+  "output": "CMakeFiles/Orrery.dir/src/Engine.cpp.o"
+},
+{
+  "directory": "/Users/ianalgenio/Documents/Projects/gl-orrery/build",
+  "command": "/Library/Developer/CommandLineTools/usr/bin/c++ -DGL_SILENCE_DEPRECATION=1 -DSTB_TEXTEDIT_KEYTYPE=unsigned -I/Users/ianalgenio/Documents/Projects/gl-orrery/include -isystem /Users/ianalgenio/.conan2/p/b/gladbc7d9b1c9c738/p/include -isystem /Users/ianalgenio/.conan2/p/b/glfwb646194cac045/p/include -isystem /Users/ianalgenio/.conan2/p/glmee168c829b0e6/p/include -isystem /Users/ianalgenio/.conan2/p/stb19b77fb56ffd7/p/include -m64 -stdlib=libc++ -O3 -DNDEBUG -std=gnu++17 -arch x86_64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX.sdk -o CMakeFiles/Orrery.dir/src/Mesh.cpp.o -c /Users/ianalgenio/Documents/Projects/gl-orrery/src/Mesh.cpp",
+  "file": "/Users/ianalgenio/Documents/Projects/gl-orrery/src/Mesh.cpp",
+  "output": "CMakeFiles/Orrery.dir/src/Mesh.cpp.o"
+},
+{
+  "directory": "/Users/ianalgenio/Documents/Projects/gl-orrery/build",
+  "command": "/Library/Developer/CommandLineTools/usr/bin/c++ -DGL_SILENCE_DEPRECATION=1 -DSTB_TEXTEDIT_KEYTYPE=unsigned -I/Users/ianalgenio/Documents/Projects/gl-orrery/include -isystem /Users/ianalgenio/.conan2/p/b/gladbc7d9b1c9c738/p/include -isystem /Users/ianalgenio/.conan2/p/b/glfwb646194cac045/p/include -isystem /Users/ianalgenio/.conan2/p/glmee168c829b0e6/p/include -isystem /Users/ianalgenio/.conan2/p/stb19b77fb56ffd7/p/include -m64 -stdlib=libc++ -O3 -DNDEBUG -std=gnu++17 -arch x86_64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX.sdk -o CMakeFiles/Orrery.dir/src/Renderer.cpp.o -c /Users/ianalgenio/Documents/Projects/gl-orrery/src/Renderer.cpp",
+  "file": "/Users/ianalgenio/Documents/Projects/gl-orrery/src/Renderer.cpp",
+  "output": "CMakeFiles/Orrery.dir/src/Renderer.cpp.o"
+},
+{
+  "directory": "/Users/ianalgenio/Documents/Projects/gl-orrery/build",
+  "command": "/Library/Developer/CommandLineTools/usr/bin/c++ -DGL_SILENCE_DEPRECATION=1 -DSTB_TEXTEDIT_KEYTYPE=unsigned -I/Users/ianalgenio/Documents/Projects/gl-orrery/include -isystem /Users/ianalgenio/.conan2/p/b/gladbc7d9b1c9c738/p/include -isystem /Users/ianalgenio/.conan2/p/b/glfwb646194cac045/p/include -isystem /Users/ianalgenio/.conan2/p/glmee168c829b0e6/p/include -isystem /Users/ianalgenio/.conan2/p/stb19b77fb56ffd7/p/include -m64 -stdlib=libc++ -O3 -DNDEBUG -std=gnu++17 -arch x86_64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX.sdk -o CMakeFiles/Orrery.dir/src/Shader.cpp.o -c /Users/ianalgenio/Documents/Projects/gl-orrery/src/Shader.cpp",
+  "file": "/Users/ianalgenio/Documents/Projects/gl-orrery/src/Shader.cpp",
+  "output": "CMakeFiles/Orrery.dir/src/Shader.cpp.o"
+},
+{
+  "directory": "/Users/ianalgenio/Documents/Projects/gl-orrery/build",
+  "command": "/Library/Developer/CommandLineTools/usr/bin/c++ -DGL_SILENCE_DEPRECATION=1 -DSTB_TEXTEDIT_KEYTYPE=unsigned -I/Users/ianalgenio/Documents/Projects/gl-orrery/include -isystem /Users/ianalgenio/.conan2/p/b/gladbc7d9b1c9c738/p/include -isystem /Users/ianalgenio/.conan2/p/b/glfwb646194cac045/p/include -isystem /Users/ianalgenio/.conan2/p/glmee168c829b0e6/p/include -isystem /Users/ianalgenio/.conan2/p/stb19b77fb56ffd7/p/include -m64 -stdlib=libc++ -O3 -DNDEBUG -std=gnu++17 -arch x86_64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX.sdk -o CMakeFiles/Orrery.dir/src/main.cpp.o -c /Users/ianalgenio/Documents/Projects/gl-orrery/src/main.cpp",
+  "file": "/Users/ianalgenio/Documents/Projects/gl-orrery/src/main.cpp",
+  "output": "CMakeFiles/Orrery.dir/src/main.cpp.o"
+},
+{
+  "directory": "/Users/ianalgenio/Documents/Projects/gl-orrery/build",
+  "command": "/Library/Developer/CommandLineTools/usr/bin/c++ -DGL_SILENCE_DEPRECATION=1 -DSTB_TEXTEDIT_KEYTYPE=unsigned -I/Users/ianalgenio/Documents/Projects/gl-orrery/include -isystem /Users/ianalgenio/.conan2/p/b/gladbc7d9b1c9c738/p/include -isystem /Users/ianalgenio/.conan2/p/b/glfwb646194cac045/p/include -isystem /Users/ianalgenio/.conan2/p/glmee168c829b0e6/p/include -isystem /Users/ianalgenio/.conan2/p/stb19b77fb56ffd7/p/include -m64 -stdlib=libc++ -O3 -DNDEBUG -std=gnu++17 -arch x86_64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX.sdk -o CMakeFiles/Orrery.dir/src/stb_image_impl.cpp.o -c /Users/ianalgenio/Documents/Projects/gl-orrery/src/stb_image_impl.cpp",
+  "file": "/Users/ianalgenio/Documents/Projects/gl-orrery/src/stb_image_impl.cpp",
+  "output": "CMakeFiles/Orrery.dir/src/stb_image_impl.cpp.o"
+}
+]
