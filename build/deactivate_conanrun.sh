@@ -1,1 +1,0 @@
-. "/Users/ianalgenio/Documents/Projects/gl-orrery/build/deactivate_conanrunenv-release-x86_64.sh"

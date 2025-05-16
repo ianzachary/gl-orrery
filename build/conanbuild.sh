@@ -1,1 +1,0 @@
-. "/Users/ianalgenio/Documents/Projects/gl-orrery/build/conanbuildenv-release-x86_64.sh"
