@@ -30,3 +30,25 @@
 *.exe
 *.out
 *.app
+
+# IDE/Editor configurations
+.vscode/
+
+# Build & CMake
+build/
+CMakeFiles/
+CMakeCache.txt
+cmake_install.cmake
+Makefile
+compile_commands.json
+
+# macOS
+.DS_Store
+
+# User/Tool Specific files
+CMakeUserPresets.json
+*.log
+*.tmp
+*.swp
+*.swn
+*.swo

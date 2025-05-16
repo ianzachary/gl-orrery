@@ -1,3 +1,0 @@
-/Users/ianalgenio/Documents/Projects/gl-orrery/build/CMakeFiles/Orrery.dir
-/Users/ianalgenio/Documents/Projects/gl-orrery/build/CMakeFiles/edit_cache.dir
-/Users/ianalgenio/Documents/Projects/gl-orrery/build/CMakeFiles/rebuild_cache.dir
